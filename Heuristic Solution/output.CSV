@@ -1,0 +1,9 @@
+,Course Schedule,(Greedy Heuristic),
+Course,Titles,Meeting Time(s),Rating
+FIN 352,Risk Management,M Eve,3.6
+CIS 102W,Web Design for Nonprofit Organizations,T Eve,3.7
+FIN 358,International Finance,W Eve,3.5
+MGT 490,Business Strategy,M 1:25-2:20 p.m. & W 1:25-3:15 p.m.,4.6
+FIN 356,Options Futures and Swaps,T 1:25-3:15 p.m. & Th 1:25-2:20 p.m.,3.4
+,,,
+,,Greedy Heuristic Rating:,18.8
